@@ -7,4 +7,6 @@ numpy
 Marshmallow
 connexion
 flask-openapi3
+Flask-RESTful
+
 
